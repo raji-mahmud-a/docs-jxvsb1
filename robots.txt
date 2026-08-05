@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-btiela.jambul126.xyz/sitemap.xml
